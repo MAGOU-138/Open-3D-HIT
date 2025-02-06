@@ -6,8 +6,8 @@
 #include "Pgrm_setup.hpp"
 
 /*
-2d turbulence
-program by Chutian Wu
+3d turbulence
+programmed by Chutian Wu
 */
 
 namespace set
